@@ -1,3 +1,12 @@
+# Pattern 1
+"""
+    *    
+   ***   
+  *****  
+ ******* 
+*********
+
+"""
 def up(x):
     for i in range(x):
         for j in range(x-i-1):

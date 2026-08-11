@@ -1,3 +1,14 @@
+# Pattern 2
+"""
+*********
+ ******* 
+  *****  
+   ***   
+    *    
+
+"""
+
+
 def rev(x):
     for i in range(x):
         for j in range(i):
