@@ -18,7 +18,6 @@ def gcd(a,b):
     else:
         return a
 
-a = 12
-b = 9
-
+a  = int(input())
+b  = int(input())
 print(gcd(a,b))
